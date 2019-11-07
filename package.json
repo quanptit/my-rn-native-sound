@@ -1,6 +1,6 @@
 {
   "name": "my-rn-native-sound",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "my-rn-native-sound",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
