@@ -1,4 +1,4 @@
-<manifest package="com.my.rn.native.sound"
+<manifest package="com.my.rn.sound.simple"
           xmlns:android="http://schemas.android.com/apk/res/android">
 
     <uses-permission android:name="android.permission.INTERNET"/>

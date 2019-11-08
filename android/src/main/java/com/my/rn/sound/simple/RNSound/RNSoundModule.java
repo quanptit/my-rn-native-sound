@@ -1,4 +1,4 @@
-package com.my.rn.sound.RNSound;
+package com.my.rn.sound.simple.RNSound;
 
 import android.content.res.AssetFileDescriptor;
 import android.media.MediaPlayer;
